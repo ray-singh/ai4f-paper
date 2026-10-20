@@ -1,6 +1,7 @@
-# AI4F Workshop At ICAIF 2026 P
+# AI4F Workshop At ICAIF 2026
 
 UPDATE: Oral presentation acceptance was withdrawn due to my inability to attend the workshop in-person.
+![Alt Text](screenshot.png)
 
 ## Title
 Skepticism Needs a Second Source: How Tool-Using Financial LLM Agents Handle Silent Data Corruption
